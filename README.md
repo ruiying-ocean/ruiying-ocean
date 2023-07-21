@@ -15,3 +15,7 @@ Welcome to my Github page 😄. My name is Rui Ying (Chinese name: **应锐**), 
 #### Other links :link:
 [Google Scholar](https://scholar.google.com/citations?user=1QNR-nEAAAAJ&hl=en)
 [Twitter](https://twitter.com/YingRui17)
+
+#### Latest Publication 📖
+
+Ying, R., Monteiro, F. M., Wilson, J. D., and Schmidt, D. N.: ForamEcoGEnIE 2.0: incorporating symbiosis and spine traits into a trait-based global planktic foraminiferal model, Geosci. Model Dev., 16, 813–832, https://doi.org/10.5194/gmd-16-813-2023, 2023. 
