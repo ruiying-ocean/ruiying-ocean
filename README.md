@@ -12,7 +12,7 @@ How to describe the dynamic of marine ecosystem in a mathematical manner is a ch
 
 :computer:  <ins> In my Ph.D, I use a Earth System Model of Intermediate Complexity ([cGENIE](https://github.com/derpycode/cgenie.muffin)) and observed planktic foraminifer data to answer these questions  </ins>. Planktic foraminifer is an intersting group of zooplankton with inorganic shell (CaCO3). These shells provide the most abudant microfossil samples in the world which are widely used to infer temperature in the past.
 
-:star2: I have been already published the ForamEcoGENIE model, i.e., adding the planktic foraminifer groups into cGENIE model. A Python Package, [cgeniepy](https://github.com/ruiying-ocean/cgeniepy) is also accompanied to facilitate visualisation. Recently, I am also submitted a new manuscript regarding foraminifera thermal niche in different ages, which can be found in preprint below. 
+:star2: I have been already published the ForamEcoGENIE model, i.e., adding the planktic foraminifer groups into cGENIE model. A Python Package, [cgeniepy](https://github.com/ruiying-ocean/cgeniepy) is also accompanied to facilitate visualisation. Recently, I also submitted a new manuscript regarding foraminifera thermal niche in different ages, which can be found in the below preprint. 
 
 #### Other links :link:
 [Google Scholar](https://scholar.google.com/citations?user=1QNR-nEAAAAJ&hl=en)
