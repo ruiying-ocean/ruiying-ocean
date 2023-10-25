@@ -2,9 +2,11 @@
 **ruiying-ocean/ruiying-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-WELCOME to my Github page 😄. My name is Rui Ying (Chinese: **应锐**), I'm studying at the University of Bristol as a final year PhD student. My research interests are marine ecology, climate change and biogeochemical cycle. The beauty of following map explains why I am so fascinated by this nature. 
+WELCOME to my Github page 😄. My name is Rui Ying (Chinese: **应锐**), I'm a final year PhD student at the University of Bristol, UK. My research interests are marine ecology, climate change and biogeochemical cycle. The beauty of following map explains why (a modelled species diversity using METAL theory). 
 
-![species_richness](richness.png){width=200 height=150}
+<div style="text-align: center;">
+    <img src="richness.png" alt="Species Richness" width="600" height="400">
+</div>
 
 
 However, loves aside, how to model the dynamic of marine ecosystem is a challenging scientific question. How to link the biological processes to their functions like transfering energy and matter to different locations of world, sptaially or vertically, is a difficult task on another level. Different answers determine how we understand the global climate in the past and future, because the marine ecosystem is evidently an important node in global carbon cycle.
