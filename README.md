@@ -2,13 +2,13 @@
 **ruiying-ocean/ruiying-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-WELCOME to my GitHub page 😄. My name is Rui Ying (Chinese: **应锐**), I'm a scientist studying marine ecology, climate change and the biogeochemical cycle. The following map easily explains why (a modelled species diversity using METAL theory). 
+Hello, I am Rui Ying (Chinese: **应锐**), I'm an Earth scientist with a particular interest in marine ecosystems. The following map explains why (a modelled species diversity using METAL theory). 
 
 <p align="center">
     <img src="richness.png" alt="Species Richness" width="600" height="400">
 </p>
 
-I want to understand the fundamental regulation of marine ecology and simulate the realistic dynamic in a theoretical world. I also hope to understand the consequences of these biological/ecological processes, such as the transfer of energy and matters from one position to the other. These questions will determine our knowledge of the global climate, ocean environment, and food supply in the future (and make me happy).
+I study the fundamental regulation of marine ecology and simulate the realistic dynamic in a theoretical world. I also hope to understand the consequences of these biological/ecological processes, such as the transfer of energy and matters from one position to the other. These questions will determine our knowledge of the global climate, ocean environment, and food supply in the future (and make me happy).
 
 :computer:  <ins> In my PhD, I use an Earth System Model of Intermediate Complexity ([cGENIE](https://github.com/derpycode/cgenie.muffin)) and observed planktic foraminifer data to answer these questions  </ins>. Planktic foraminifer is an interesting group of zooplankton (tiny animals living in the water) with inorganic shells (CaCO3). These shells provide the most abundant microfossil samples in the world and are widely used to reconstruct temperature in the past.
 
