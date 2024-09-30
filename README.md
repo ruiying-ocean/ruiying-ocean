@@ -19,8 +19,6 @@ I study the fundamental regulation of marine ecology and simulate the realistic 
 [Twitter](https://twitter.com/YingRui17)
 
 #### Latest Publication 📖
-Ying, R: cgeniepy: A Python package for analysing cGENIE Earth System Model output, 2024 (under review in JOSS)
-
-Ying, R., Monteiro, F. M., Wilson, J. D., and Schmidt, D. N.: Marine zooplankton acclimated to geological warming while facing limits by the next century, EarthArxiv (preprint), https://doi.org/10.31223/X5D10G, 2023.
+Ying, R. (2024). cgeniepy: A Python package for analysing cGENIE Earth System Model output. Journal of Open Source Software, 9(101), 6762. https://doi.org/10.21105/joss.06762
 
 Ying, R., Monteiro, F. M., Wilson, J. D., and Schmidt, D. N.: ForamEcoGEnIE 2.0: incorporating symbiosis and spine traits into a trait-based global planktic foraminiferal model, Geosci. Model Dev., 16, 813–832, https://doi.org/10.5194/gmd-16-813-2023, 2023. 
