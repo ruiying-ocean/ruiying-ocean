@@ -2,7 +2,7 @@
 **ruiying-ocean/ruiying-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hello, I am Rui Ying (Chinese: **应锐**), an Earth scientist with a particular interest in marine ecosystems. The following map explains why (a modelled species diversity using METAL theory). 
+Hello, I am Rui Ying (Chinese: **应锐**), an Earth scientist with a particular interest in marine ecosystem modelling. The following map explains why (a modelled species diversity using METAL theory). 
 
 <p align="center">
     <img src="richness.png" alt="Species Richness" width="600" height="400">
