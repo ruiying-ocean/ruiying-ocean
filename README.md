@@ -19,6 +19,8 @@ My main research tools are ecosystem and biogeochemical model (coupled or not co
 [Twitter](https://twitter.com/YingRui17)
 
 #### Latest Publication 📖
+Ying, R., Monteiro, F. M., Wilson, J. D., Ödalen, M. & Schmidt, D. N. Past foraminiferal acclimatization capacity is limited during future warming (2024). Nature 1–5 doi:10.1038/s41586-024-08029-0.
+
 Ying, R. (2024). cgeniepy: A Python package for analysing cGENIE Earth System Model output. Journal of Open Source Software, 9(101), 6762. https://doi.org/10.21105/joss.06762
 
 Ying, R., Monteiro, F. M., Wilson, J. D., and Schmidt, D. N.: ForamEcoGEnIE 2.0: incorporating symbiosis and spine traits into a trait-based global planktic foraminiferal model, Geosci. Model Dev., 16, 813–832, https://doi.org/10.5194/gmd-16-813-2023, 2023. 
